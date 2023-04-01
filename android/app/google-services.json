@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "244131346466",
+    "project_id": "loginapp-ae200",
+    "storage_bucket": "loginapp-ae200.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:244131346466:android:86541a04e6df4a70c0f27b",
+        "android_client_info": {
+          "package_name": "com.example.signin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "244131346466-3qg2uo2jh6v1dq5ttnfqj7d5jbdkd5gc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqNAxmPEpuzCO4V4Gsf_y2m-mYKl-mdEM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "244131346466-3qg2uo2jh6v1dq5ttnfqj7d5jbdkd5gc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
